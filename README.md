@@ -39,5 +39,9 @@ Nesta etapa, trabalhamos com:
 
 ```text
 mecaniQA-belem/
-├── README.md
-└── mecaniqa.py
+├──.venv/
+├──atividade_1_inspecao.ipynb
+├──atividade_2_decomposicao.ipynb
+├──atividade_3_pipeline.ipynb
+├──mecaniqa_dataset.csv              
+└──README.md 
